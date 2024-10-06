@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-import plotly.express as px
 from datetime import datetime
 
 # Function to fetch data from the API
